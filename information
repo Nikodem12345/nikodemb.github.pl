@@ -1,0 +1,38 @@
+<!DOCTYPE  html>
+<html>
+
+ <head>
+ 
+ <meta charset "utf=8">
+ 
+ <title>Informacje o mnie</title>
+ 
+ <style>
+ 
+ body{
+ color: rgb(23,48,99);
+ 
+ }
+ 
+ 
+ </style>
+ 
+ </head>
+ 
+ <body>
+ 
+ <h1>Informacje o mnie</h1>
+ 
+ <p>
+ Jestem Nikodem,jestem niski,mam piwne oczy,lubie grać i czytać książki,moim zainteresowaniem jest gaming i nic więcej<br>
+ </p>
+ 
+ </body>
+ 
+</html>
+ 
+ 
+ 
+
+ 
+ 
